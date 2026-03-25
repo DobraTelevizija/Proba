@@ -1,0 +1,857 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TELECOM INFO" tvg-logo="http://ott.global-telecom.eu:25461/images/28c30b468661b60951b82a8f5aafa5f2.png" group-title="GOOD TV / DOBRA TV",GLOBAL TELECOM INFO
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/11167
+#EXTINF:-1 tvg-id="Dobra HD" tvg-name="DOBRA HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2b393d29d76fee1e1828203113592824.png" group-title="GOOD TV / DOBRA TV",DOBRA HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4233
+#EXTINF:-1 tvg-id="www.dobratv.com" tvg-name="GOOD INTERNATIONAL HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2b393d29d76fee1e1828203113592824.png" group-title="GOOD TV / DOBRA TV",GOOD INTERNATIONAL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4242
+#EXTINF:-1 tvg-id="www.dobratv.com" tvg-name="DOBRA MUZICKA" tvg-logo="http://ott.global-telecom.eu:25461/images/2b393d29d76fee1e1828203113592824.png" group-title="GOOD TV / DOBRA TV",DOBRA MUZICKA
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4245
+#EXTINF:-1 tvg-id="7873" tvg-name="DOBRA EXCLUSIVE HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2b393d29d76fee1e1828203113592824.png" group-title="GOOD TV / DOBRA TV",DOBRA EXCLUSIVE HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4251
+#EXTINF:-1 tvg-id="7873" tvg-name="DOBRA ISLAMSKA HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2b393d29d76fee1e1828203113592824.png" group-title="GOOD TV / DOBRA TV",DOBRA ISLAMSKA HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4318
+#EXTINF:-1 tvg-id="7873" tvg-name="HRT 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/d155636e0ea7edb2646099c3502965cf.png" group-title="CROATIA / HRVATSKA",HRT 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5372
+#EXTINF:-1 tvg-id="106" tvg-name="HRT 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/d04f15aa5de8816fee95ff4312c2ebd3.png" group-title="CROATIA / HRVATSKA",HRT 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5374
+#EXTINF:-1 tvg-id="5800" tvg-name="HRT 3 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2411c3ebb7bca08ea99eb5d4ab7ff6b5.png" group-title="CROATIA / HRVATSKA",HRT 3 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5375
+#EXTINF:-1 tvg-id="13739" tvg-name="HRT 4 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/c22cfb3bec8a84a01a300b1be484f071.png" group-title="CROATIA / HRVATSKA",HRT 4 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4
+#EXTINF:-1 tvg-id="489" tvg-name="N1 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/874c5bcc5c3c8ef04722e87d32d52a47.png" group-title="CROATIA / HRVATSKA",N1 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/14
+#EXTINF:-1 tvg-id="5482" tvg-name="RTL HD" tvg-logo="http://ott.global-telecom.eu:25461/images/efe01da942ed68b700b911f5a1b131a7.png" group-title="CROATIA / HRVATSKA",RTL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/8
+#EXTINF:-1 tvg-id="5483" tvg-name="RTL 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/fe5d1e8e4b3fee7d5318e06b8ab39760.png" group-title="CROATIA / HRVATSKA",RTL 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1395
+#EXTINF:-1 tvg-id="481" tvg-name="NOVA TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/4b103ecd8bbd8b21566f76353438b079.png" group-title="CROATIA / HRVATSKA",NOVA TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/993
+#EXTINF:-1 tvg-id="514" tvg-name="DOMA TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/3e4ed34a5638803051d2cb6526e25493.png" group-title="CROATIA / HRVATSKA",DOMA TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6
+#EXTINF:-1 tvg-id="13898" tvg-name="BHT 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/c88de80595c77c46cc778145453375d2.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",BHT 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/330
+#EXTINF:-1 tvg-id="13899" tvg-name="FEDERALNA TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/c0f38240806f4425b0ca59e19cc61d82.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",FEDERALNA TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4350
+#EXTINF:-1 tvg-id="20136" tvg-name="TV SARAJEVO HD" tvg-logo="http://ott.global-telecom.eu:25461/images/4a136c58da3122f8c9585fffec3f0e62.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",TV SARAJEVO HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3737
+#EXTINF:-1 tvg-id="484" tvg-name="NOVA BH HD" tvg-logo="http://ott.global-telecom.eu:25461/images/57458c9c55caf1f6970a54971e4115c7.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",NOVA BH HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4301
+#EXTINF:-1 tvg-id="13906" tvg-name="HAYAT HD" tvg-logo="http://ott.global-telecom.eu:25461/images/fb86b3a5fe586ff040704c276253050b.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",HAYAT HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3796
+#EXTINF:-1 tvg-id="13907" tvg-name="HAYAT 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/e1331e63bec1edccb0735bf4b8a42230.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",HAYAT 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/336
+#EXTINF:-1 tvg-id="13901" tvg-name="OBN HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2c34ea305f31e5b1e210d825d182c18a.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",OBN HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/332
+#EXTINF:-1 tvg-id="13912" tvg-name="BN HD" tvg-logo="http://ott.global-telecom.eu:25461/images/fc37fbde490e37c1258738a18b9aa4c7.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",BN HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/337
+#EXTINF:-1 tvg-id="21120" tvg-name="FACE TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/a68d9f47bcea86ea8748c114ea3ea74a.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",FACE TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4304
+#EXTINF:-1 tvg-id="491" tvg-name="N1 HD (BIH)" tvg-logo="http://ott.global-telecom.eu:25461/images/874c5bcc5c3c8ef04722e87d32d52a47.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",N1 HD (BIH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4792
+#EXTINF:-1 tvg-id="14931" tvg-name="SANDZAK TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/7bc76c8e251d097bade53132e0bf6152.png" group-title="BOSNIA AND HERZEGOVINA / BOSNA I HERCEGOVINA",SANDZAK TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4275
+#EXTINF:-1 tvg-id="18304" tvg-name="RTS 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/acd2ca5caacb1f5ec31528c7f5d0d4fe.png" group-title="SERBIA / SRBIJA",RTS 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/49
+#EXTINF:-1 tvg-id="14097" tvg-name="RTS 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/397d8e19d7903be40120b40696de1dad.png" group-title="SERBIA / SRBIJA",RTS 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/50
+#EXTINF:-1 tvg-id="14098" tvg-name="RTS 3 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/43f453befd262891bb6dbafc9ffc6347.png" group-title="SERBIA / SRBIJA",RTS 3 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/51
+#EXTINF:-1 tvg-id="19696" tvg-name="PRVA TV HD." tvg-logo="http://ott.global-telecom.eu:25461/images/52e90703cbfe00b6bdaedb74e9d91190.png" group-title="SERBIA / SRBIJA",PRVA TV HD.
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4324
+#EXTINF:-1 tvg-id="487" tvg-name="NOVA S HD" tvg-logo="http://ott.global-telecom.eu:25461/images/7812e816be17071a9ed1ee9eaba2938d.png" group-title="SERBIA / SRBIJA",NOVA S HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5584
+#EXTINF:-1 tvg-id="493" tvg-name="N1 HD (SR)" tvg-logo="http://ott.global-telecom.eu:25461/images/86bc43e556b1df283839f053eb02e2bb.png" group-title="SERBIA / SRBIJA",N1 HD (SR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/58
+#EXTINF:-1 tvg-id="14102" tvg-name="RTS DRAMA" tvg-logo="http://ott.global-telecom.eu:25461/images/34b0abadeb8254923a564035befe4503.png" group-title="SERBIA / SRBIJA",RTS DRAMA
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/52
+#EXTINF:-1 tvg-id="38420" tvg-name="RTS TREZOR" tvg-logo="http://ott.global-telecom.eu:25461/images/e0265786b12bd931e99d3b44055d5955.png" group-title="SERBIA / SRBIJA",RTS TREZOR
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/53
+#EXTINF:-1 tvg-id="14099" tvg-name="RTS SVET HD" tvg-logo="http://ott.global-telecom.eu:25461/images/20c51578ccf82139d32ecddeb71241ba.png" group-title="SERBIA / SRBIJA",RTS SVET HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/55
+#EXTINF:-1 tvg-id="14101" tvg-name="RTS ZIVOT" tvg-logo="http://ott.global-telecom.eu:25461/images/8d1ccdeebba24e12814b0d6a81111bcb.png" group-title="SERBIA / SRBIJA",RTS ZIVOT
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/56
+#EXTINF:-1 tvg-id="14207" tvg-name="RTCG 1 HD." tvg-logo="http://ott.global-telecom.eu:25461/images/d367164ffadd1af46d2d1489bb5b0c6f.png" group-title="MONTENEGRO / CRNA GORA",RTCG 1 HD.
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/380
+#EXTINF:-1 tvg-id="14208" tvg-name="RTCG 2 HD." tvg-logo="http://ott.global-telecom.eu:25461/images/1f1a684c392a17257009ca5ae0d27bec.png" group-title="MONTENEGRO / CRNA GORA",RTCG 2 HD.
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/381
+#EXTINF:-1 tvg-id="14209" tvg-name="RTCG MNE HD" tvg-logo="http://ott.global-telecom.eu:25461/images/07fa2291811b5b33be7dbed7400fae9f.png" group-title="MONTENEGRO / CRNA GORA",RTCG MNE HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/396
+#EXTINF:-1 tvg-id="5397" tvg-name="MPT 1 HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/bf4667c520067b74ff3c72dd328fb69f.png" group-title="N. MACEDONIA / S. MAKEDONIJA",MPT 1 HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/417
+#EXTINF:-1 tvg-id="5852" tvg-name="MPT 2 HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/2fce0d749d9c039e5e7d79746d2306f3.png" group-title="N. MACEDONIA / S. MAKEDONIJA",MPT 2 HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/418
+#EXTINF:-1 tvg-id="5869" tvg-name="MPT 3 HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/21925eb78a5a818c7d9dc8c9eba316a9.png" group-title="N. MACEDONIA / S. MAKEDONIJA",MPT 3 HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6391
+#EXTINF:-1 tvg-id="4826" tvg-name="TV HUGO 1 HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/304868dfd517f3ebf746bbe3284f3e66.png" group-title="N. MACEDONIA / S. MAKEDONIJA",TV HUGO 1 HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/413
+#EXTINF:-1 tvg-id="4734" tvg-name="TV HUGO 2 HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/304868dfd517f3ebf746bbe3284f3e66.png" group-title="N. MACEDONIA / S. MAKEDONIJA",TV HUGO 2 HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/414
+#EXTINF:-1 tvg-id="5869" tvg-name="MPT SOBRANISKI HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/21925eb78a5a818c7d9dc8c9eba316a9.png" group-title="N. MACEDONIA / S. MAKEDONIJA",MPT SOBRANISKI HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/419
+#EXTINF:-1 tvg-id="5396" tvg-name="ALFA TV HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/19ffdeb691c9a3184f43b4679635a246.png" group-title="N. MACEDONIA / S. MAKEDONIJA",ALFA TV HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/426
+#EXTINF:-1 tvg-id="5850" tvg-name="24 VESTI HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/5f903575d365a168219abe42aba5737d.png" group-title="N. MACEDONIA / S. MAKEDONIJA",24 VESTI HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/421
+#EXTINF:-1 tvg-id="4816" tvg-name="SITEL HD (MK)" tvg-logo="http://ott.global-telecom.eu:25461/images/29ffafbd4d83e34ce34cb7d8b7c34a56.png" group-title="N. MACEDONIA / S. MAKEDONIJA",SITEL HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/423
+#EXTINF:-1 tvg-id="14152" tvg-name="SLO 1 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/76f30e7969252f56775d25514e93014c.png" group-title="SLOVENIA / SLOVENIJA",SLO 1 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/872
+#EXTINF:-1 tvg-id="14153" tvg-name="SLO 2 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/21b22e5f6e9f464e236d59ea8b7ff70c.png" group-title="SLOVENIA / SLOVENIJA",SLO 2 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/873
+#EXTINF:-1 tvg-id="14154" tvg-name="SLO 3 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/544bdd2d7ac56064b54635aa628bfa96.png" group-title="SLOVENIA / SLOVENIJA",SLO 3 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/874
+#EXTINF:-1 tvg-id="5490" tvg-name="PINK HD" tvg-logo="http://ott.global-telecom.eu:25461/images/99a5d21e26c6563d5a540d022a6a981a.png" group-title="PINK / PINK",PINK HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/97
+#EXTINF:-1 tvg-id="7633" tvg-name="PINK BH HD" tvg-logo="http://ott.global-telecom.eu:25461/images/add88c11158817dee7a2b9aa8807bc2a.png" group-title="PINK / PINK",PINK BH HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/124
+#EXTINF:-1 tvg-id="5494" tvg-name="PINK VESTI HD" tvg-logo="http://ott.global-telecom.eu:25461/images/df7b373f374a6a52e3a9eead8be6dd2d.png" group-title="PINK / PINK",PINK VESTI HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/99
+#EXTINF:-1 tvg-id="5501" tvg-name="PINK SERIJE" tvg-logo="http://ott.global-telecom.eu:25461/images/8a17c24ae9de96b0e113ce7f012197f5.png" group-title="PINK / PINK",PINK SERIJE
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/114
+#EXTINF:-1 tvg-id="5635" tvg-name="PINK CLASSIC" tvg-logo="http://ott.global-telecom.eu:25461/images/99c30483e6b1f005b1ad33670d0a4006.png" group-title="PINK / PINK",PINK CLASSIC
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/115
+#EXTINF:-1 tvg-id="5506" tvg-name="PINK ROMANCE" tvg-logo="http://ott.global-telecom.eu:25461/images/fd381fe07e299e8a609058e60ebd462f.png" group-title="PINK / PINK",PINK ROMANCE
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/116
+#EXTINF:-1 tvg-id="5504" tvg-name="PINK ZABAVA" tvg-logo="http://ott.global-telecom.eu:25461/images/cad5fbcd8c39b421ce33f6dfb2cc2a7d.png" group-title="PINK / PINK",PINK ZABAVA
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/117
+#EXTINF:-1 tvg-id="5508" tvg-name="PINK KUVAR" tvg-logo="http://ott.global-telecom.eu:25461/images/d2496df442aafe5cae152658bd93de81.png" group-title="PINK / PINK",PINK KUVAR
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/118
+#EXTINF:-1 tvg-id="5502" tvg-name="PINK THRILLER" tvg-logo="http://ott.global-telecom.eu:25461/images/6c7a0657dcbf60b592cbfcb99c4ef23d.png" group-title="PINK / PINK",PINK THRILLER
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/113
+#EXTINF:-1 tvg-id="5500" tvg-name="PINK SCI FI AND FANTASY" tvg-logo="http://ott.global-telecom.eu:25461/images/2a3815ab295dc037a98d9435213c2aa4.png" group-title="PINK / PINK",PINK SCI FI AND FANTASY
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/112
+#EXTINF:-1 tvg-id="13747" tvg-name="HBO HD" tvg-logo="http://ott.global-telecom.eu:25461/images/cbb01b39ffe1a3397fe1c2fb4e5ba0a3.png" group-title="MOVIE / FILM",HBO HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/461
+#EXTINF:-1 tvg-id="13748" tvg-name="HBO 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/855f17f09693f8686e745053293b490b.png" group-title="MOVIE / FILM",HBO 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/462
+#EXTINF:-1 tvg-id="13749" tvg-name="HBO 3 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/dbb6b1782114538595e7f979a634cc00.png" group-title="MOVIE / FILM",HBO 3 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/463
+#EXTINF:-1 tvg-id="13754" tvg-name="CINESTAR 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/a67c46142768a389fbfc6790f42b4333.png" group-title="MOVIE / FILM",CINESTAR 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/464
+#EXTINF:-1 tvg-id="21644" tvg-name="CINESTAR 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/d9bb84ab23dd68e609e1db6d9f4f7893.png" group-title="MOVIE / FILM",CINESTAR 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5895
+#EXTINF:-1 tvg-id="13756" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/8eb46e24f3518ff580221be4ecbb58a6.png" group-title="MOVIE / FILM",CINESTAR PREMIERE 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/467
+#EXTINF:-1 tvg-id="30819" tvg-name="CINESTAR COMEDY HD" tvg-logo="http://ott.global-telecom.eu:25461/images/1d98a37a98f23f58d812f193ad5c8803.png" group-title="MOVIE / FILM",CINESTAR COMEDY HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7473
+#EXTINF:-1 tvg-id="13755" tvg-name="CINESTAR ACTION HD." tvg-logo="http://ott.global-telecom.eu:25461/images/4623a99058756eb78245d060e2e81d20.png" group-title="MOVIE / FILM",CINESTAR ACTION HD.
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5517
+#EXTINF:-1 tvg-id="13758" tvg-name="CINEMAX 1 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/e840372e21ebb21468158f3cd1647a4b.png" group-title="MOVIE / FILM",CINEMAX 1 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/469
+#EXTINF:-1 tvg-id="19744" tvg-name="KLASIK TV" tvg-logo="http://ott.global-telecom.eu:25461/images/0feb0631a9c3e72c069a47282a7fc333.png" group-title="MOVIE / FILM",KLASIK TV
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/486
+#EXTINF:-1 tvg-id="23499" tvg-name="SUPERSTAR TV 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/4262ea520ede90981ee0b80d622e54fa.png" group-title="MOVIE / FILM",SUPERSTAR TV 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/10353
+#EXTINF:-1 tvg-id="13750" tvg-name="STAR CHANNEL HD" tvg-logo="https://www.logosoft.ba/chanLogo/star.png" group-title="MOVIE / FILM",STAR CHANNEL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4703
+#EXTINF:-1 tvg-id="13753" tvg-name="STAR CRIME HD" tvg-logo="http://ott.global-telecom.eu:25461/images/8f265814c64807643aafa2c9c340426a.png" group-title="MOVIE / FILM",STAR CRIME HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4704
+#EXTINF:-1 tvg-id="13751" tvg-name="STAR MOVIES HD" tvg-logo="https://www.logosoft.ba/chanLogo/starmovies.png" group-title="MOVIE / FILM",STAR MOVIES HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4705
+#EXTINF:-1 tvg-id="20620" tvg-name="STAR LIFE HD" tvg-logo="http://ott.global-telecom.eu:25461/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="MOVIE / FILM",STAR LIFE HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4706
+#EXTINF:-1 tvg-id="" tvg-name="LUD ZBUNJEN NORMALAN 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/a4c18b8048b29e1f4ed12f64431ab20b.png" group-title="MOVIE / FILM",LUD ZBUNJEN NORMALAN 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4043
+#EXTINF:-1 tvg-id="21815" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://ott.global-telecom.eu:25461/images/126ff2e7576e1960ef999ffd8b5fc15c.png" group-title="DOCUMENTARY / DOKUMENTARNI",CRIME & INVESTIGATION
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/489
+#EXTINF:-1 tvg-id="20014" tvg-name="DISCOVERY ID HD" tvg-logo="http://ott.global-telecom.eu:25461/images/05c83efb217b886d75879e704e8c0ca3.png" group-title="DOCUMENTARY / DOKUMENTARNI",DISCOVERY ID HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/490
+#EXTINF:-1 tvg-id="14202" tvg-name="BBC EARTH HD" tvg-logo="http://ott.global-telecom.eu:25461/images/f97b69c5ebeef8cb5c4f92d3d77b7c03.png" group-title="DOCUMENTARY / DOKUMENTARNI",BBC EARTH HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/492
+#EXTINF:-1 tvg-id="14185" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ott.global-telecom.eu:25461/images/905da538f1fbe703bf029ad6addb0d33.png" group-title="DOCUMENTARY / DOKUMENTARNI",ANIMAL PLANET HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/493
+#EXTINF:-1 tvg-id="7873" tvg-name="LOV I RIBOLOV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/58afe0060c60223016a1c8e837e6f5f5.png" group-title="DOCUMENTARY / DOKUMENTARNI",LOV I RIBOLOV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/517
+#EXTINF:-1 tvg-id="7873" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="http://ott.global-telecom.eu:25461/images/37816a56ab02a127cecdfac4d56a7df9.png" group-title="DOCUMENTARY / DOKUMENTARNI",OUTDOOR CHANNEL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/338
+#EXTINF:-1 tvg-id="30943" tvg-name="DA VINCI LEARNING / KIDS " tvg-logo="http://ott.global-telecom.eu:25461/images/5e932fe2cfe0418c4441c279ddbc4044.png" group-title="DOCUMENTARY / DOKUMENTARNI",DA VINCI LEARNING / KIDS 
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/495
+#EXTINF:-1 tvg-id="14187" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://ott.global-telecom.eu:25461/images/0d4304a54eb7830143f160d2488916ce.png" group-title="DOCUMENTARY / DOKUMENTARNI",DISCOVERY CHANNEL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/496
+#EXTINF:-1 tvg-id="7873" tvg-name="NICKELODEON HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/4f35ae55bc41fa194839d6c5863cec3e.png" group-title="KIDS / DJEČIJI",NICKELODEON HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/74
+#EXTINF:-1 tvg-id="4759" tvg-name="NICK JUNIOR (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/4ef575313fc622c8e09165f9d6f8cbdf.png" group-title="KIDS / DJEČIJI",NICK JUNIOR (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/930
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/42f899727ed7aed82c7efa48ecbdfc10.png" group-title="KIDS / DJEČIJI",MICKEY MOUSE HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/13714
+#EXTINF:-1 tvg-id="" tvg-name="HBO KIDS HD " tvg-logo="http://ott.global-telecom.eu:25461/images/099d5588bb123d522c6d467a6c9387cc.png" group-title="KIDS / DJEČIJI",HBO KIDS HD 
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/13322
+#EXTINF:-1 tvg-id="6021" tvg-name="PINK KIDS" tvg-logo="http://ott.global-telecom.eu:25461/images/0c753026a878abc877f6d2b77be5f249.png" group-title="KIDS / DJEČIJI",PINK KIDS
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/129
+#EXTINF:-1 tvg-id="21179" tvg-name="RTS POLETARAC" tvg-logo="http://ott.global-telecom.eu:25461/images/8ddf00f5cf1fccce3d7ae8824ed6453a.png" group-title="KIDS / DJEČIJI",RTS POLETARAC
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/399
+#EXTINF:-1 tvg-id="5606" tvg-name="RTL KOCKICA HD" tvg-logo="http://ott.global-telecom.eu:25461/images/7f76fd5d11fbef4d83b44eba1070256d.png" group-title="KIDS / DJEČIJI",RTL KOCKICA HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/932
+#EXTINF:-1 tvg-id="6493" tvg-name="MINIMAX HD" tvg-logo="http://ott.global-telecom.eu:25461/images/380c18e239f03cf9c0a846c7defd029b.png" group-title="KIDS / DJEČIJI",MINIMAX HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/933
+#EXTINF:-1 tvg-id="" tvg-name="FIX UND FOXI (DE)" tvg-logo="" group-title="KIDS / DJEČIJI",FIX UND FOXI (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4259
+#EXTINF:-1 tvg-id="5591" tvg-name="CMC HD" tvg-logo="" group-title="MUSIC / MUZIKA",CMC HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/952
+#EXTINF:-1 tvg-id="5596" tvg-name="BALKANIKA TV HD" tvg-logo="" group-title="MUSIC / MUZIKA",BALKANIKA TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4274
+#EXTINF:-1 tvg-id="13915" tvg-name="IZVORNA TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/d9f97ed4f73acad6f12521f6836efd67.png" group-title="MUSIC / MUZIKA",IZVORNA TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4308
+#EXTINF:-1 tvg-id="5588" tvg-name="DM SAT HD" tvg-logo="http://ott.global-telecom.eu:25461/images/6dd08dd47bb53d0acdc1c308bb7d80ff.png" group-title="MUSIC / MUZIKA",DM SAT HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4302
+#EXTINF:-1 tvg-id="7873" tvg-name="SKY FOLK HD (MK)" tvg-logo="https://lh3.googleusercontent.com/CFUW1izeRiu9kbFUXa7uzklDiY6aMFW2oKZECrGoRkVRVQkuK2sfDlW1IbutkJFiqYGUOg=s113" group-title="N. MACEDONIA / S. MAKEDONIJA",SKY FOLK HD (MK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4285
+#EXTINF:-1 tvg-id="14100" tvg-name="RTS KOLO" tvg-logo="http://ott.global-telecom.eu:25461/images/a8d5b011c4ca695fd9929f5f77328f52.png" group-title="MUSIC / MUZIKA",RTS KOLO
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/54
+#EXTINF:-1 tvg-id="26004" tvg-name="RTS MUZIKA" tvg-logo="http://ott.global-telecom.eu:25461/images/49bf9ce554034b81642724f6ea3730a5.png" group-title="MUSIC / MUZIKA",RTS MUZIKA
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/57
+#EXTINF:-1 tvg-id="5586" tvg-name="PINK FOLK 1" tvg-logo="http://ott.global-telecom.eu:25461/images/b15f4656ee664f0076e4994d67faa4dd.png" group-title="MUSIC / MUZIKA",PINK FOLK 1
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/125
+#EXTINF:-1 tvg-id="5121" tvg-name="PINK MUSIC" tvg-logo="http://ott.global-telecom.eu:25461/images/b7e1bb9291a03520771ca77b79a2ffc1.png" group-title="MUSIC / MUZIKA",PINK MUSIC
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/127
+#EXTINF:-1 tvg-id="7873" tvg-name="GRAND TV HD" tvg-logo="" group-title="MUSIC / MUZIKA",GRAND TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/402
+#EXTINF:-1 tvg-id="" tvg-name="SOS HD (SR)" tvg-logo="http://ott.global-telecom.eu:25461/images/60d5e1ed30b68d55e6a18004b2d17ad2.png" group-title="EX YU SPORTS / EX YU SPORT",SOS HD (SR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1010
+#EXTINF:-1 tvg-id="14744" tvg-name="SPORTSKA TV HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/86b73835438cb01db7823289b927927d.png" group-title="EX YU SPORTS / EX YU SPORT",SPORTSKA TV HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/534
+#EXTINF:-1 tvg-id="" tvg-name="GP1 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/b914bbaabdf337d0acd42d29b628dd8e.png" group-title="EX YU SPORTS / EX YU SPORT",GP1 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/535
+#EXTINF:-1 tvg-id="461" tvg-name="SPORT KLUB 1 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/e7544d66dc9220b7c129d4b6d4b69d7b.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 1 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5573
+#EXTINF:-1 tvg-id="462" tvg-name="SPORT KLUB 2 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/54f95939bf3a73a120f520c2d9060d61.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 2 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5574
+#EXTINF:-1 tvg-id="463" tvg-name="SPORT KLUB 3 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/bd00487c6008dfd00c27816643ccb420.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 3 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5575
+#EXTINF:-1 tvg-id="520" tvg-name="SPORT KLUB 1 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/6df0dac4db9f90566e6efde4ed572592.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 1 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/8065
+#EXTINF:-1 tvg-id="521" tvg-name="SPORT KLUB 2 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/ef15aec79d307389c78cec021fb8e573.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 2 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/8066
+#EXTINF:-1 tvg-id="522" tvg-name="SPORT KLUB 3 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/79d3000efebdc1be6134822119e2b625.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT KLUB 3 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/8067
+#EXTINF:-1 tvg-id="14724" tvg-name="ARENA SPORT 1 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/30aa37d2a52babf8987234c0c17062ad.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 1 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5567
+#EXTINF:-1 tvg-id="14725" tvg-name="ARENA SPORT 2 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/4f0c7ae6118105a5d566d04b24dd994f.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 2 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5568
+#EXTINF:-1 tvg-id="14726" tvg-name="ARENA SPORT 3 HD (HR)" tvg-logo="http://ott.global-telecom.eu:25461/images/0e6b0c0b7973ce4a6a75ecca48c50485.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 3 HD (HR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5569
+#EXTINF:-1 tvg-id="23472" tvg-name="ARENA SPORT 1 HD (BIH)" tvg-logo="http://ott.global-telecom.eu:25461/images/c5e42cef13dca1e3dbef6fdc182df3bf.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 1 HD (BIH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/944
+#EXTINF:-1 tvg-id="14735" tvg-name="ARENA SPORT 1 HD (SR)" tvg-logo="http://ott.global-telecom.eu:25461/images/bd003fad828a48c1dae5916f0679d41c.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 1 HD (SR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5562
+#EXTINF:-1 tvg-id="14736" tvg-name="ARENA SPORT 2 HD (SR)" tvg-logo="http://ott.global-telecom.eu:25461/images/39ac39c4c8e03b4787d01d2961caf0eb.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 2 HD (SR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5563
+#EXTINF:-1 tvg-id="14812" tvg-name="ARENA SPORT 3 HD (SR)" tvg-logo="http://ott.global-telecom.eu:25461/images/e686e61e89ba00929edb9c65899793d4.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 3 HD (SR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5564
+#EXTINF:-1 tvg-id="14724" tvg-name="ARENA SPORT 1 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/30aa37d2a52babf8987234c0c17062ad.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 1 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7956
+#EXTINF:-1 tvg-id="14725" tvg-name="ARENA SPORT 2 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/4f0c7ae6118105a5d566d04b24dd994f.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 2 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7957
+#EXTINF:-1 tvg-id="26969" tvg-name="ARENA SPORT 3 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/e686e61e89ba00929edb9c65899793d4.png" group-title="EX YU SPORTS / EX YU SPORT",ARENA SPORT 3 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/10521
+#EXTINF:-1 tvg-id="20205" tvg-name="SPORT TV 1 HD (SLO)" tvg-logo="http://ott.global-telecom.eu:25461/images/2104739f571760fb95db64872600d5e2.png" group-title="EX YU SPORTS / EX YU SPORT",SPORT TV 1 HD (SLO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/552
+#EXTINF:-1 tvg-id="" tvg-name="RTSH SPORT HD (AL)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",RTSH SPORT HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/804
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD (PL)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",GOLF CHANNEL HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4307
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD (UK)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",RED BULL TV HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4020
+#EXTINF:-1 tvg-id="7873" tvg-name="NBA TV HD (CA)" tvg-logo="http://ott.global-telecom.eu:25461/images/52b6d6fc82db6aef110362f4755a1fe8.png" group-title="WORLD SPORTS / SVJETSKI SPORT",NBA TV HD (CA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/523
+#EXTINF:-1 tvg-id="15268" tvg-name="ESPN 1 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/f641b47de93f36543440e9702eb8d25c.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",ESPN 1 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/558
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/2f327fd6f56a84c6d1badd2002317f0d.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",ESPN 2 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/559
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 1 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/bd46e3ed37d670b5cbeb43d1f68e1650.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",TRING SPORT 1 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/795
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 2 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/fed11c665f8aa83e8fcb067146b34ef8.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",TRING SPORT 2 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/796
+#EXTINF:-1 tvg-id="7873" tvg-name="KUJTESA SPORT 1 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/deb85c619ea89facf0ac594e58731282.jpg" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",KUJTESA SPORT 1 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/799
+#EXTINF:-1 tvg-id="7873" tvg-name="KUJTESA SPORT 2 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/deb85c619ea89facf0ac594e58731282.jpg" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",KUJTESA SPORT 2 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/800
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD (PT)" tvg-logo="http://ott.global-telecom.eu:25461/images/b5ab2a73123efc4f0c2875b082b3af5a.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",SPORT TV 1 HD (PT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/964
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD (PT)" tvg-logo="http://ott.global-telecom.eu:25461/images/41fd4b03f78baf5d5d6c5cbfc07110d2.png" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",SPORT TV 2 HD (PT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/966
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT HD (PL)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",CANAL+ SPORT HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/855
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD (PL)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",CANAL+ SPORT 2 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/856
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORT 1 HD (RUS)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",SETANTA SPORT 1 HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/22408
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORT 2 HD (RUS)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",SETANTA SPORT 2 HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/22409
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1 HD (AR)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",KSA SPORTS 1 HD (AR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/21937
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2 HD (AR)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",KSA SPORTS 2 HD (AR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/21938
+#EXTINF:-1 tvg-id="" tvg-name="CYTAVISION SPORTS 1 HD (CY)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",CYTAVISION SPORTS 1 HD (CY)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/21893
+#EXTINF:-1 tvg-id="" tvg-name="CYTAVISION SPORTS 2 HD (CY)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",CYTAVISION SPORTS 2 HD (CY)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/21894
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS 1 HD (AR)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",ALKASS 1 HD (AR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/20298
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS 2 HD (AR)" tvg-logo="" group-title="WORLD SPORTS / SVJETSKI SPORT",ALKASS 2 HD (AR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/20299
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL (CZ)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",GOLF CHANNEL (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19914
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORT 1 HD (UA)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",SETANTA SPORT 1 HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/15189
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORT + HD (UA)" tvg-logo="" group-title="EUROPEAN SPORTS / EUROPSKI SPORT",SETANTA SPORT + HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/15190
+#EXTINF:-1 tvg-id="13866" tvg-name="RTL HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/309d02b4b3c27f773db79c9261ed7506.png" group-title="DEUTSCH / NJEMACKI",RTL HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1034
+#EXTINF:-1 tvg-id="13874" tvg-name="RTL UP HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/309d02b4b3c27f773db79c9261ed7506.png" group-title="DEUTSCH / NJEMACKI",RTL UP HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3818
+#EXTINF:-1 tvg-id="13894" tvg-name="ZDF HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/3994154242827e795fd5018fbd210a02.png" group-title="DEUTSCH / NJEMACKI",ZDF HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1041
+#EXTINF:-1 tvg-id="13892" tvg-name="VOX HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/2097a5470cc837f61f7b7f0584f22443.png" group-title="DEUTSCH / NJEMACKI",VOX HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1044
+#EXTINF:-1 tvg-id="13862" tvg-name="PRO SIEBEN HD. (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/4c333cf0d06acb967c4fb2a3a971a28e.png" group-title="DEUTSCH / NJEMACKI",PRO SIEBEN HD. (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1045
+#EXTINF:-1 tvg-id="13831" tvg-name="KABEL EINS HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/205ff0178ae2667c46d37f1a594c7f3f.png" group-title="DEUTSCH / NJEMACKI",KABEL EINS HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1062
+#EXTINF:-1 tvg-id="13824" tvg-name="DAS ERSTE HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/8262bbf4ea12c87dfda657d40123a681.png" group-title="DEUTSCH / NJEMACKI",DAS ERSTE HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1105
+#EXTINF:-1 tvg-id="13868" tvg-name="RTL ZWEI HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/12335d56a2815b2c28e0afc3dbcc6dde.png" group-title="DEUTSCH / NJEMACKI",RTL ZWEI HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1035
+#EXTINF:-1 tvg-id="13875" tvg-name="SAT 1 HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/bd6b74ec6843385aafbefeddaec5ac31.png" group-title="DEUTSCH / NJEMACKI",SAT 1 HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1104
+#EXTINF:-1 tvg-id="13794" tvg-name="HEIMATKANAL HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/9ff91ec32a5bbbd0d1f038e8acd578b5.png" group-title="DEUTSCHE FILME UND SERIE / NJEMACKI FILMOVI I SERIJE",HEIMATKANAL HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/386
+#EXTINF:-1 tvg-id="13895" tvg-name="ZDF NEO HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/dcfbe7fc381b50bfd11ca35839e875d3.png" group-title="DEUTSCH / NJEMACKI",ZDF NEO HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1042
+#EXTINF:-1 tvg-id="13895" tvg-name="ZDF INFO HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/18e0d6446b537f3a68b7989bf188e16c.png" group-title="DEUTSCH / NJEMACKI",ZDF INFO HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1043
+#EXTINF:-1 tvg-id="13889" tvg-name="WARNER COMEDY HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/35fd44076498c0b3b92ca1f0585072ba.png" group-title="DEUTSCHE FILME UND SERIE / NJEMACKI FILMOVI I SERIJE",WARNER COMEDY HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1048
+#EXTINF:-1 tvg-id="13805" tvg-name="PRO SIEBEN FUN HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/1acbfd9317e8b28cba571a113f61cc04.png" group-title="DEUTSCH / NJEMACKI",PRO SIEBEN FUN HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1047
+#EXTINF:-1 tvg-id="13864" tvg-name="PRO SIEBEN MAXX HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/3814b8296c3359ba48d166432c8b6877.png" group-title="DEUTSCH / NJEMACKI",PRO SIEBEN MAXX HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1046
+#EXTINF:-1 tvg-id="13880" tvg-name="SKY KRIMI HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/4c524af4162499a1cd95e7293580bd58.png" group-title="DEUTSCHE FILME UND SERIE / NJEMACKI FILMOVI I SERIJE",SKY KRIMI HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1061
+#EXTINF:-1 tvg-id="7873" tvg-name="SKY CINEMA HITS HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/4c524af4162499a1cd95e7293580bd58.png" group-title="DEUTSCHE FILME UND SERIE / NJEMACKI FILMOVI I SERIJE",SKY CINEMA HITS HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1057
+#EXTINF:-1 tvg-id="20806" tvg-name="TAGGESSCHAU 24 HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/f2a643d715c0d8da92c4fee265fc254b.png" group-title="DEUTSCH / NJEMACKI",TAGGESSCHAU 24 HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1081
+#EXTINF:-1 tvg-id="13886" tvg-name="SYFY HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/5ee590a988f45fc0897deee059f7b960.png" group-title="DEUTSCHE FILME UND SERIE / NJEMACKI FILMOVI I SERIJE",SYFY HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1080
+#EXTINF:-1 tvg-id="13877" tvg-name="SIXX HD (DE)" tvg-logo="http://ott.global-telecom.eu:25461/images/71693f8214e2baf0b23de552bb452600.png" group-title="DEUTSCH / NJEMACKI",SIXX HD (DE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1079
+#EXTINF:-1 tvg-id="108" tvg-name="ORF 1 HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/0e9b866596e84650e4e6e12a6788aebc.png" group-title="AUSTRIA / AUSTRIJA",ORF 1 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1825
+#EXTINF:-1 tvg-id="13843" tvg-name="ORF 2 HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/a5dbbdc154a019d315f762ada8dfcc83.png" group-title="AUSTRIA / AUSTRIJA",ORF 2 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1826
+#EXTINF:-1 tvg-id="13844" tvg-name="ORF 3 HD (AT)" tvg-logo="http://titaniptv.com/epg/logo/ORF3.png" group-title="AUSTRIA / AUSTRIJA",ORF 3 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1110
+#EXTINF:-1 tvg-id="13846" tvg-name="PULS 4 HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/c6687a9fa910dce60b1e5b8a34d5bc02.png" group-title="AUSTRIA / AUSTRIJA",PULS 4 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1857
+#EXTINF:-1 tvg-id="" tvg-name="W 24 HD (AT)" tvg-logo="" group-title="AUSTRIA / AUSTRIJA",W 24 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2393
+#EXTINF:-1 tvg-id="13808" tvg-name="OE 24 TV (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/63c2cdbb32802f050857ab87c8cd8b65.png" group-title="AUSTRIA / AUSTRIJA",OE 24 TV (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3797
+#EXTINF:-1 tvg-id="13846" tvg-name="PULS 24 HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/c5838b6345748f78774d82b492679220.png" group-title="AUSTRIA / AUSTRIJA",PULS 24 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7958
+#EXTINF:-1 tvg-id="" tvg-name="KRONE HIT TV HD (AT)" tvg-logo="" group-title="AUSTRIA / AUSTRIJA",KRONE HIT TV HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/9865
+#EXTINF:-1 tvg-id="13821" tvg-name="ATV HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/65cc7d0a72a70de61112fdb0180ab14f.png" group-title="AUSTRIA / AUSTRIJA",ATV HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1858
+#EXTINF:-1 tvg-id="13820" tvg-name="ATV 2 HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/65cc7d0a72a70de61112fdb0180ab14f.png" group-title="AUSTRIA / AUSTRIJA",ATV 2 HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1859
+#EXTINF:-1 tvg-id="21105" tvg-name="ROUGE TV HD (CH)" tvg-logo="" group-title="SWISS / ŠVICARSKA",ROUGE TV HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1855
+#EXTINF:-1 tvg-id="13884" tvg-name="SRF 1 HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/0c2da12d93934bdb9a91a2356ab741fc.png" group-title="SWISS / ŠVICARSKA",SRF 1 HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1822
+#EXTINF:-1 tvg-id="107" tvg-name="SRF 2 HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/92d40a7652402fcb6f744e6d7b625a86.png" group-title="SWISS / ŠVICARSKA",SRF 2 HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1823
+#EXTINF:-1 tvg-id="21083" tvg-name="SRF INFO HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/76544f149a362bcc6d7b093125972252.png" group-title="SWISS / ŠVICARSKA",SRF INFO HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1824
+#EXTINF:-1 tvg-id="7873" tvg-name="RTL HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/309d02b4b3c27f773db79c9261ed7506.png" group-title="SWISS / ŠVICARSKA",RTL HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1829
+#EXTINF:-1 tvg-id="13866" tvg-name="RTL ZWEI HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/0073f6b9cb431e1981888ef8f26a623e.png" group-title="SWISS / ŠVICARSKA",RTL ZWEI HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1830
+#EXTINF:-1 tvg-id="13879" tvg-name="NITRO HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/42949228cb53de3f6decd726f495770c.png" group-title="SWISS / ŠVICARSKA",NITRO HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1831
+#EXTINF:-1 tvg-id="13877" tvg-name="SIXX HD (AT)" tvg-logo="http://ott.global-telecom.eu:25461/images/71693f8214e2baf0b23de552bb452600.png" group-title="SWISS / ŠVICARSKA",SIXX HD (AT)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1832
+#EXTINF:-1 tvg-id="21084" tvg-name="RSI LA 1 HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/5e2c8d6d742fa43c97929931d1746726.png" group-title="SWISS / ŠVICARSKA",RSI LA 1 HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1827
+#EXTINF:-1 tvg-id="21085" tvg-name="RSI LA 2 HD (CH)" tvg-logo="http://ott.global-telecom.eu:25461/images/f1fe460aa4233fa6250591676658c18f.png" group-title="SWISS / ŠVICARSKA",RSI LA 2 HD (CH)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1828
+#EXTINF:-1 tvg-id="7873" tvg-name="RTL LUXEMBOURG HD (LUX)" tvg-logo="http://ott.global-telecom.eu:25461/images/4ef1073c236cf43e52b41efcc09272e9.png" group-title="LUXEMBOURG / LUXEMBURG",RTL LUXEMBOURG HD (LUX)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6402
+#EXTINF:-1 tvg-id="" tvg-name="RTL ZWEE LUXEMBOURG HD (LUX)" tvg-logo="" group-title="LUXEMBOURG / LUXEMBURG",RTL ZWEE LUXEMBOURG HD (LUX)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6403
+#EXTINF:-1 tvg-id="17703" tvg-name="RAI 1 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",RAI 1 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1210
+#EXTINF:-1 tvg-id="17702" tvg-name="RAI 2 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",RAI 2 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1211
+#EXTINF:-1 tvg-id="17697" tvg-name="RAI 3 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",RAI 3 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1212
+#EXTINF:-1 tvg-id="20236" tvg-name="RAI NEWS 24 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",RAI NEWS 24 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/431
+#EXTINF:-1 tvg-id="20237" tvg-name="RAI SCUOLA HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",RAI SCUOLA HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1217
+#EXTINF:-1 tvg-id="17705" tvg-name="MEDIASET ITALIA 1 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",MEDIASET ITALIA 1 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1215
+#EXTINF:-1 tvg-id="20247" tvg-name="DISCOVERY DMAX HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",DISCOVERY DMAX HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1236
+#EXTINF:-1 tvg-id="20262" tvg-name="MEDIASET EXTRA HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",MEDIASET EXTRA HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1222
+#EXTINF:-1 tvg-id="20252" tvg-name="MEDIASET FOCUS HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",MEDIASET FOCUS HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1270
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD (ITA)" tvg-logo="" group-title="ITALY / ITALIJA",TV 8 HD (ITA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1274
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",FRANCE 24 HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1634
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",FRANCE 2 HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1635
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",FRANCE 3 HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1636
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",FRANCE 4 HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1637
+#EXTINF:-1 tvg-id="" tvg-name="SEASONS HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",SEASONS HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1644
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",M6 HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1650
+#EXTINF:-1 tvg-id="" tvg-name="6TER HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",6TER HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1647
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD (FR)" tvg-logo="http://ott.global-telecom.eu:25461/images/894a32de977df155b3df799a4566dcb6.png" group-title="FRANCE / FRANCUSKA",EURONEWS HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1639
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",TV 5 MONDE HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1641
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD (FR)" tvg-logo="" group-title="FRANCE / FRANCUSKA",I24 NEWS HD (FR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1642
+#EXTINF:-1 tvg-id="111" tvg-name="NPO 1 HD (NL)" tvg-logo="" group-title="HOLLAND / HOLANDIJA",NPO 1 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1871
+#EXTINF:-1 tvg-id="15236" tvg-name="NPO 2  HD (NL)" tvg-logo="" group-title="HOLLAND / HOLANDIJA",NPO 2  HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1872
+#EXTINF:-1 tvg-id="15237" tvg-name="NPO 3 HD (NL)" tvg-logo="" group-title="HOLLAND / HOLANDIJA",NPO 3 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1873
+#EXTINF:-1 tvg-id="15238" tvg-name="RTL 4 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/58b877d88d501c8a0525b1a41ce2a740.png" group-title="HOLLAND / HOLANDIJA",RTL 4 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1874
+#EXTINF:-1 tvg-id="20149" tvg-name="ITV 1 HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",ITV 1 HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3784
+#EXTINF:-1 tvg-id="20150" tvg-name="ITV 2 HD (UK)" tvg-logo="http://51.15.13.64:82/logo_channels/kinotv.png" group-title="UNITED KINGDOM / VELIKA BRITANIJA",ITV 2 HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3785
+#EXTINF:-1 tvg-id="7690" tvg-name="ITV 3 HD (UK)" tvg-logo="http://51.15.13.64:82/logo_channels/kinotv.png" group-title="UNITED KINGDOM / VELIKA BRITANIJA",ITV 3 HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3786
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",AL JAZEERA HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3795
+#EXTINF:-1 tvg-id="9654" tvg-name="CHANNEL 5 HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",CHANNEL 5 HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3793
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",BBC NEWS HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3794
+#EXTINF:-1 tvg-id="22402" tvg-name="RTE TWO HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",RTE TWO HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/372
+#EXTINF:-1 tvg-id="22401" tvg-name="RTE ONE HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",RTE ONE HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1006
+#EXTINF:-1 tvg-id="7689" tvg-name="ITV 4 HD (UK)" tvg-logo="" group-title="UNITED KINGDOM / VELIKA BRITANIJA",ITV 4 HD (UK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3787
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",LA 1 HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3823
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",LA 2 HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3824
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",M+ VAMOS HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3821
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",DMAX HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3822
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",CALLE 13 HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3833
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 24 HORAS HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",CANAL 24 HORAS HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3834
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",ANTENA 3 HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3829
+#EXTINF:-1 tvg-id="111" tvg-name="NPO EXTRA 1 HD (NL)" tvg-logo="" group-title="HOLLAND / HOLANDIJA",NPO EXTRA 1 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1876
+#EXTINF:-1 tvg-id="15243" tvg-name="RTL 8 HD (NL)" tvg-logo="" group-title="HOLLAND / HOLANDIJA",RTL 8 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1878
+#EXTINF:-1 tvg-id="15239" tvg-name="RTL 5 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/e210e3c44c0e0848e8f2c3605cf88265.png" group-title="HOLLAND / HOLANDIJA",RTL 5 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1875
+#EXTINF:-1 tvg-id="15242" tvg-name="RTL 7 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/a37390cd8445bbaff0524feaab9725d6.png" group-title="HOLLAND / HOLANDIJA",RTL 7 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1877
+#EXTINF:-1 tvg-id="15241" tvg-name="SBS 6 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/50476c13e458ef77e61313235e48882c.png" group-title="HOLLAND / HOLANDIJA",SBS 6 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1879
+#EXTINF:-1 tvg-id="15240" tvg-name="NET 5 HD (NL)" tvg-logo="http://ott.global-telecom.eu:25461/images/22aa91b8d0a47d772df2e83a0780e57b.png" group-title="HOLLAND / HOLANDIJA",NET 5 HD (NL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2013
+#EXTINF:-1 tvg-id="" tvg-name="RTL PLUG (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",RTL PLUG (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2357
+#EXTINF:-1 tvg-id="" tvg-name="VTM HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",VTM HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2354
+#EXTINF:-1 tvg-id="" tvg-name="CANVAS HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",CANVAS HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2353
+#EXTINF:-1 tvg-id="" tvg-name="VTM 4 HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",VTM 4 HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1516
+#EXTINF:-1 tvg-id="" tvg-name="VTM 2 HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",VTM 2 HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1469
+#EXTINF:-1 tvg-id="5990" tvg-name="RTL CLUB HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",RTL CLUB HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2359
+#EXTINF:-1 tvg-id="" tvg-name="RTL TVI HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",RTL TVI HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2356
+#EXTINF:-1 tvg-id="" tvg-name="LA UNE HD (BE)" tvg-logo="" group-title="BELGIUM / BELGIJA",LA UNE HD (BE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2364
+#EXTINF:-1 tvg-id="FINE LIVING" tvg-name="ABC NEWS HD (US)" tvg-logo="" group-title="USA / SAD",ABC NEWS HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7505
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="BRAVO HD (US)" tvg-logo="" group-title="USA / SAD",BRAVO HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/7503
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD (US)" tvg-logo="" group-title="USA / SAD",IFC HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6394
+#EXTINF:-1 tvg-id="" tvg-name="CNBC HD (US)" tvg-logo="" group-title="USA / SAD",CNBC HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/6255
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD (ES)" tvg-logo="" group-title="ESPAÑA / ŠPANIJA",CUATRO HD (ES)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3839
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="CNN INTERNACIONAL HD (US)" tvg-logo="" group-title="USA / SAD",CNN INTERNACIONAL HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/420
+#EXTINF:-1 tvg-id="HRT 1 HD" tvg-name="BLOOMBERG TV HD (US)" tvg-logo="" group-title="USA / SAD",BLOOMBERG TV HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/455
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD (US)" tvg-logo="" group-title="USA / SAD",FOX NEWS HD (US)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5497
+#EXTINF:-1 tvg-id="" tvg-name="M1 HD (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",M1 HD (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2368
+#EXTINF:-1 tvg-id="" tvg-name="M 2 (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",M 2 (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2369
+#EXTINF:-1 tvg-id="" tvg-name="M 5 (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",M 5 (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2372
+#EXTINF:-1 tvg-id="" tvg-name="DUNA HD (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",DUNA HD (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2373
+#EXTINF:-1 tvg-id="" tvg-name="DIGI WORLD HD (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",DIGI WORLD HD (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2375
+#EXTINF:-1 tvg-id="" tvg-name="RTL HAROM HD (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",RTL HAROM HD (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2376
+#EXTINF:-1 tvg-id="" tvg-name="RTL KETTO (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",RTL KETTO (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2377
+#EXTINF:-1 tvg-id="" tvg-name="FEM 3 (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",FEM 3 (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2382
+#EXTINF:-1 tvg-id="" tvg-name="STORY 4 (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",STORY 4 (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2383
+#EXTINF:-1 tvg-id="" tvg-name="SPEKTRUM HD (HU)" tvg-logo="" group-title="HUNGARY / MAĐARSKA",SPEKTRUM HD (HU)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2384
+#EXTINF:-1 tvg-id="" tvg-name="ROMANIA TV (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",ROMANIA TV (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2394
+#EXTINF:-1 tvg-id="24582" tvg-name="PRO TV HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",PRO TV HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1276
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",ANTENA 1 HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2396
+#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",DIGI 24 HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2398
+#EXTINF:-1 tvg-id="" tvg-name="TVR 2 HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",TVR 2 HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2399
+#EXTINF:-1 tvg-id="" tvg-name="REALITATEA PLUS HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",REALITATEA PLUS HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2404
+#EXTINF:-1 tvg-id="" tvg-name="TARAF TV (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",TARAF TV (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2406
+#EXTINF:-1 tvg-id="" tvg-name="TVR 1 HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",TVR 1 HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2400
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",ANTENA 3 HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2397
+#EXTINF:-1 tvg-id="24581" tvg-name="KANAL D HD (RO)" tvg-logo="" group-title="ROMANIA / RUMUNJSKA",KANAL D HD (RO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3831
+#EXTINF:-1 tvg-id="" tvg-name="BNT 1 (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",BNT 1 (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/10546
+#EXTINF:-1 tvg-id="" tvg-name="BNT 2 (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",BNT 2 (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5516
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV HD (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",NOVA TV HD (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4652
+#EXTINF:-1 tvg-id="" tvg-name="DIEMA TV HD (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",DIEMA TV HD (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/557
+#EXTINF:-1 tvg-id="14161" tvg-name="24 KITCHEN HD (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",24 KITCHEN HD (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1101
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC CHANNEL HD (BG)" tvg-logo="http://ott.global-telecom.eu:25461/images/64be3052d27e679710388a5f993cf3b2.png" group-title="BULGARIA / BUGARSKA",NATIONAL GEOGRAPHIC CHANNEL HD (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1781
+#EXTINF:-1 tvg-id="" tvg-name="BTV STORY (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",BTV STORY (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1973
+#EXTINF:-1 tvg-id="" tvg-name="BTV CINEMA (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",BTV CINEMA (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3779
+#EXTINF:-1 tvg-id="" tvg-name="BTV COMEDY (BG)" tvg-logo="" group-title="BULGARIA / BUGARSKA",BTV COMEDY (BG)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2008
+#EXTINF:-1 tvg-id="" tvg-name="CT 1 HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",CT 1 HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19296
+#EXTINF:-1 tvg-id="" tvg-name="CT 2 HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",CT 2 HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19297
+#EXTINF:-1 tvg-id="" tvg-name="CT 24 HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",CT 24 HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19298
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",NOVA HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19299
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA HD (CZ)" tvg-logo="http://ott.global-telecom.eu:25461/images/8dd48d6a2e2cad213179a3992c0be53c.png" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",NOVA CINEMA HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19301
+#EXTINF:-1 tvg-id="" tvg-name="NOVA GOLD HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",NOVA GOLD HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19302
+#EXTINF:-1 tvg-id="" tvg-name="NOVA INTERNATIONAL HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",NOVA INTERNATIONAL HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19303
+#EXTINF:-1 tvg-id="" tvg-name="PRIMA HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",PRIMA HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19304
+#EXTINF:-1 tvg-id="" tvg-name="PRIMA COMEDY HD (CZ)" tvg-logo="" group-title="CEHOSLOVACKA / CZESHOSLOVAKIA",PRIMA COMEDY HD (CZ)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/19305
+#EXTINF:-1 tvg-id="" tvg-name="TVP HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26420
+#EXTINF:-1 tvg-id="" tvg-name="TVP 2 HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP 2 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26421
+#EXTINF:-1 tvg-id="" tvg-name="TVP 3 HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP 3 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26422
+#EXTINF:-1 tvg-id="" tvg-name="TVP POLONIA HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP POLONIA HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26423
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TV 4 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26424
+#EXTINF:-1 tvg-id="" tvg-name="TVP KULTURA HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP KULTURA HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26425
+#EXTINF:-1 tvg-id="" tvg-name="TV 6 HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TV 6 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26426
+#EXTINF:-1 tvg-id="" tvg-name="TVP DOKUMENT HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TVP DOKUMENT HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26427
+#EXTINF:-1 tvg-id="" tvg-name="TV POLSAT HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TV POLSAT HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26428
+#EXTINF:-1 tvg-id="" tvg-name="TV POLSAT 2 HD (PL)" tvg-logo="" group-title="POLAND / POLJSKA",TV POLSAT 2 HD (PL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26429
+#EXTINF:-1 tvg-id="" tvg-name="AMEDIA 1 HD (RUS)" tvg-logo="" group-title="RUSSIA / RUSIJA",AMEDIA 1 HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26534
+#EXTINF:-1 tvg-id="" tvg-name="ARSENAL HD (RUS)" tvg-logo="" group-title="RUSSIA / RUSIJA",ARSENAL HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26537
+#EXTINF:-1 tvg-id="" tvg-name="ROSSIYA 1 HD (RUS)" tvg-logo="" group-title="RUSSIA / RUSIJA",ROSSIYA 1 HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26539
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD (RUS)" tvg-logo="" group-title="RUSSIA / RUSIJA",EURONEWS HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26540
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ 1000 HD (RUS)" tvg-logo="" group-title="RUSSIA / RUSIJA",VIJU+ 1000 HD (RUS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26541
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",NEWS 24 HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/13324
+#EXTINF:-1 tvg-id="" tvg-name="KIEV STB HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",KIEV STB HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26499
+#EXTINF:-1 tvg-id="" tvg-name="MILADY TELEVISION HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",MILADY TELEVISION HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26500
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",ZOOM TV HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26502
+#EXTINF:-1 tvg-id="" tvg-name="TYSA 1 HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",TYSA 1 HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26503
+#EXTINF:-1 tvg-id="" tvg-name="1+1 TV HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",1+1 TV HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26504
+#EXTINF:-1 tvg-id="" tvg-name="2+2 TV HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",2+2 TV HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26505
+#EXTINF:-1 tvg-id="" tvg-name="TET TV HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",TET TV HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26506
+#EXTINF:-1 tvg-id="" tvg-name="PERSHIY UKRAINE HD (UA)" tvg-logo="" group-title="UKRAINE / UKRAJINA",PERSHIY UKRAINE HD (UA)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/26507
+#EXTINF:-1 tvg-id="" tvg-name="NRK 1 HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",NRK 1 HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2333
+#EXTINF:-1 tvg-id="" tvg-name="TV NORGE HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV NORGE HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2335
+#EXTINF:-1 tvg-id="" tvg-name="TV2 LIVSSTIL (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV2 LIVSSTIL (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2336
+#EXTINF:-1 tvg-id="" tvg-name="NRK 2 HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",NRK 2 HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2334
+#EXTINF:-1 tvg-id="" tvg-name="TV2 NORGE HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV2 NORGE HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2337
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 10 NORGE HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",KANAL 10 NORGE HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1382
+#EXTINF:-1 tvg-id="" tvg-name="FEM HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",FEM HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1381
+#EXTINF:-1 tvg-id="" tvg-name="TV2 NYHETSKANALEN (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV2 NYHETSKANALEN (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2338
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV 3 HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2340
+#EXTINF:-1 tvg-id="" tvg-name="SVT 2 HD (SWE)" tvg-logo="http://ott.global-telecom.eu:25461/images/37c4d7e9f7785835cc4efa35b172be8c.png" group-title="SWEDEN / SVEDSKA",SVT 2 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2248
+#EXTINF:-1 tvg-id="" tvg-name="SVT 1 HD (SWE)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svt_1.png" group-title="SWEDEN / SVEDSKA",SVT 1 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2247
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",TV 3 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2250
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",TV 4 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2251
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT 4 HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",VIASAT 4 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2257
+#EXTINF:-1 tvg-id="" tvg-name="SF KANALEN (SWE)" tvg-logo="http://ott.global-telecom.eu:25461/images/0d27afe66c993678dc84cab312a89649.png" group-title="SWEDEN / SVEDSKA",SF KANALEN (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5838
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",INVESTIGATION DISCOVERY HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/5837
+#EXTINF:-1 tvg-id="" tvg-name="TV2 ZEBRA HD (NO)" tvg-logo="" group-title="NORWAY / NORVESKA",TV2 ZEBRA HD (NO)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2339
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 5 HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",KANAL 5 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2244
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 9 HD (SWE)" tvg-logo="" group-title="SWEDEN / SVEDSKA",KANAL 9 HD (SWE)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2245
+#EXTINF:-1 tvg-id="" tvg-name="DR 1 HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",DR 1 HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2265
+#EXTINF:-1 tvg-id="" tvg-name="DR 2 HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",DR 2 HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2266
+#EXTINF:-1 tvg-id="" tvg-name="TV2 NEWS HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV2 NEWS HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2262
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 HD  (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV 3 HD  (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2263
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 9 HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",KANAL 9 HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4089
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 4 HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",KANAL 4 HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/2269
+#EXTINF:-1 tvg-id="" tvg-name="TV 3+ (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV 3+ (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4096
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV 2 HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1385
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 ECHO HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV 2 ECHO HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1386
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 CHARLIE HD (DK)" tvg-logo="" group-title="DENMARK / DANSKA",TV 2 CHARLIE HD (DK)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1387
+#EXTINF:-1 tvg-id="" tvg-name="TV MITROVICA HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",TV MITROVICA HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1498
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",RTK 1 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1866
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",RTK 4 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1869
+#EXTINF:-1 tvg-id="" tvg-name="TV DUKAGJINI HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",TV DUKAGJINI HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1893
+#EXTINF:-1 tvg-id="15063" tvg-name="RTK 2 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",RTK 2 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1867
+#EXTINF:-1 tvg-id="15064" tvg-name="RTK 3 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",RTK 3 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1868
+#EXTINF:-1 tvg-id="" tvg-name="ASHKALI TV 1 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",ASHKALI TV 1 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1794
+#EXTINF:-1 tvg-id="" tvg-name="ASHKALI TV 2 HD (KS)" tvg-logo="" group-title="KOSOVË / KOSOVO",ASHKALI TV 2 HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1796
+#EXTINF:-1 tvg-id="" tvg-name="RTK SAT HD (KS)" tvg-logo="http://ott.global-telecom.eu:25461/images/cf10136b4e738feeff4f63e57cd7a1e4.png" group-title="KOSOVË / KOSOVO",RTK SAT HD (KS)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1458
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/c9de314ed52ed355d4e64ab156e4e50f.png" group-title="SHQIPERIA / ALBANIJA",RTSH 1 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1476
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 HD (AL)" tvg-logo="https://www.rtsh.al/rtsh-live/RTSH2_large.png" group-title="SHQIPERIA / ALBANIJA",RTSH 2 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1477
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 HD (AL)" tvg-logo="https://www.rtsh.al/rtsh-live/RTSH3_large.png" group-title="SHQIPERIA / ALBANIJA",RTSH 3 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1478
+#EXTINF:-1 tvg-id="" tvg-name="MEKKA LIVE HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/38aaf9c860c811eba0c2ac3864a949f8.png" group-title="SHQIPERIA / ALBANIJA",MEKKA LIVE HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1552
+#EXTINF:-1 tvg-id="" tvg-name="FILM MAX HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/a39ac5294fcff33e2e75661c016797f3.png" group-title="SHQIPERIA / ALBANIJA",FILM MAX HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1558
+#EXTINF:-1 tvg-id="" tvg-name="FILM AKSION HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",FILM AKSION HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1559
+#EXTINF:-1 tvg-id="" tvg-name="TRING ACTION HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/c6504e66ca475bbf15c6988fd13dede9.png" group-title="SHQIPERIA / ALBANIJA",TRING ACTION HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1567
+#EXTINF:-1 tvg-id="" tvg-name="KLAN KOSOVA HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/ca46576b821b386e5b289a36c555fcd0.png" group-title="SHQIPERIA / ALBANIJA",KLAN KOSOVA HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1623
+#EXTINF:-1 tvg-id="" tvg-name="KLAN PLUS HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/382add083d65298dfb3acff4989f3a23.png" group-title="SHQIPERIA / ALBANIJA",KLAN PLUS HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1450
+#EXTINF:-1 tvg-id="" tvg-name="TV SHENJA HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/a8daca5d1007f2ff5a5e818ae76d309f.png" group-title="SHQIPERIA / ALBANIJA",TV SHENJA HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1448
+#EXTINF:-1 tvg-id="" tvg-name="VIZION PLUS HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/fc387e54e1b9714220596bffd27f024c.png" group-title="SHQIPERIA / ALBANIJA",VIZION PLUS HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1452
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/52e7eed3aac28760bd947214fefc6865.png" group-title="SHQIPERIA / ALBANIJA",RTV 21 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1453
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 POPULLORE HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/14c9490f91d02e72ce15ff12cee1a5d1.png" group-title="SHQIPERIA / ALBANIJA",RTV 21 POPULLORE HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1454
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MIX HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/048465f1c5a02a1507c547e8096f9890.png" group-title="SHQIPERIA / ALBANIJA",RTV 21 MIX HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1455
+#EXTINF:-1 tvg-id="" tvg-name="TOP NEWS HD (AL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png" group-title="SHQIPERIA / ALBANIJA",TOP NEWS HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1456
+#EXTINF:-1 tvg-id="" tvg-name="RTV VIZION + HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/474e406fc68c5e3f0bce9a7206cdef5e.jpg" group-title="SHQIPERIA / ALBANIJA",RTV VIZION + HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1464
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/40045ee5a0a2ffe214e7bacf4a674ada.png" group-title="SHQIPERIA / ALBANIJA",NEWS 24 HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1467
+#EXTINF:-1 tvg-id="" tvg-name="KLAN HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/ca46576b821b386e5b289a36c555fcd0.png" group-title="SHQIPERIA / ALBANIJA",KLAN HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1473
+#EXTINF:-1 tvg-id="" tvg-name="RTSH SHQIP HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/e4b6a6c99f11fc2b5d87e64e1266f11d.png" group-title="SHQIPERIA / ALBANIJA",RTSH SHQIP HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1479
+#EXTINF:-1 tvg-id="" tvg-name="RTSH MUSIC HD (AL)" tvg-logo="https://www.rtsh.al/rtsh-live/RTSH_Muzike.png" group-title="SHQIPERIA / ALBANIJA",RTSH MUSIC HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1480
+#EXTINF:-1 tvg-id="" tvg-name="RTSH KORCA HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/332a31dcc461f4283f4b9f0718163495.png" group-title="SHQIPERIA / ALBANIJA",RTSH KORCA HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1482
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",ANIMAL PLANET HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1489
+#EXTINF:-1 tvg-id="" tvg-name="A TV HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",A TV HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1511
+#EXTINF:-1 tvg-id="" tvg-name="FOLK + HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",FOLK + HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1513
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 PLUS HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/bf07079b79fc2d71b05020e7f6f91480.png" group-title="SHQIPERIA / ALBANIJA",RTV 21 PLUS HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1514
+#EXTINF:-1 tvg-id="" tvg-name="RTV FONTANA HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",RTV FONTANA HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1517
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",KTV HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1525
+#EXTINF:-1 tvg-id="" tvg-name="EXPLORER SHKENCE HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/960cf4ed2277432e7631424c76ef905e.png" group-title="SHQIPERIA / ALBANIJA",EXPLORER SHKENCE HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1527
+#EXTINF:-1 tvg-id="" tvg-name="EXPLORER NATYRE HD (AL)" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/EXP-Natyra.png" group-title="SHQIPERIA / ALBANIJA",EXPLORER NATYRE HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1528
+#EXTINF:-1 tvg-id="" tvg-name="TRING HISTORY HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/732e8bbed5819883f79aa3126aa660aa.png" group-title="SHQIPERIA / ALBANIJA",TRING HISTORY HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1529
+#EXTINF:-1 tvg-id="" tvg-name="TRING PLANET HD (AL)" tvg-logo="http://ott.global-telecom.eu:25461/images/6e918bb455b451923651ee1b28ab4f33.png" group-title="SHQIPERIA / ALBANIJA",TRING PLANET HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1530
+#EXTINF:-1 tvg-id="" tvg-name="RTV ISLAM HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",RTV ISLAM HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1548
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV HD (AL)" tvg-logo="" group-title="SHQIPERIA / ALBANIJA",PEACE TV HD (AL)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1550
+#EXTINF:-1 tvg-id="16672" tvg-name="TRT 1 HD (TR)" tvg-logo="http://www.canlisportv.com/trt-1-hd/" group-title="TURKEY / TURSKA",TRT 1 HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1582
+#EXTINF:-1 tvg-id="16674" tvg-name="TRT HABER HD (TR)" tvg-logo="http://ott.global-telecom.eu:25461/images/7dad8d02f26400ed313eab7001de741f.jpg" group-title="TURKEY / TURSKA",TRT HABER HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1583
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD (TR)" tvg-logo="" group-title="TURKEY / TURSKA",TRT AVAZ HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1586
+#EXTINF:-1 tvg-id="16653" tvg-name="KANAL 7 HD (TR)" tvg-logo="http://ott.global-telecom.eu:25461/images/ecff6288fae438afab2eac9f7ede695e.jpg" group-title="TURKEY / TURSKA",KANAL 7 HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1589
+#EXTINF:-1 tvg-id="16655" tvg-name="KANAL D HD (TR)" tvg-logo="http://ott.global-telecom.eu:25461/images/bd7b6c69ef93c2d91bd801e4ca96c040.png" group-title="TURKEY / TURSKA",KANAL D HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1591
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND HD (TR)" tvg-logo="" group-title="TURKEY / TURSKA",SEMERKAND HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1593
+#EXTINF:-1 tvg-id="16633" tvg-name="A HABER HD (TR)" tvg-logo="http://ott.global-telecom.eu:25461/images/6bc13c638fdf6be46974a12b8849d5e0.jpg" group-title="TURKEY / TURSKA",A HABER HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1596
+#EXTINF:-1 tvg-id="" tvg-name="NOW! HD (TR)" tvg-logo="http://ott.global-telecom.eu:25461/images/86e5777eb9a843d393b3a5834f8019d1.png" group-title="TURKEY / TURSKA",NOW! HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1520
+#EXTINF:-1 tvg-id="" tvg-name="TV NET HD (TR)" tvg-logo="" group-title="TURKEY / TURSKA",TV NET HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/86
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK TV HD (TR)" tvg-logo="" group-title="TURKEY / TURSKA",DREAM TURK TV HD (TR)
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1501
+#EXTINF:-1 tvg-id="5751" tvg-name="PINK EROTIC HD" tvg-logo="http://ott.global-telecom.eu:25461/images/e6f404aef1aaa6cb5ffa620633fc74cc.png" group-title="FOR ADULTS",PINK EROTIC HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/130
+#EXTINF:-1 tvg-id="5752" tvg-name="PINK EROTIC 2 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/6ed06efe8b47abae714dd27f37460210.png" group-title="FOR ADULTS",PINK EROTIC 2 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/131
+#EXTINF:-1 tvg-id="5753" tvg-name="PINK EROTIC 3 HD" tvg-logo="http://ott.global-telecom.eu:25461/images/8b15ae72902307fe67fa3ee12844b569.png" group-title="FOR ADULTS",PINK EROTIC 3 HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/132
+#EXTINF:-1 tvg-id="" tvg-name="VIVID RED TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/e4fa243e35ad247650688ad6339f84b0.png" group-title="FOR ADULTS",VIVID RED TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1553
+#EXTINF:-1 tvg-id="" tvg-name="DUSK HD" tvg-logo="http://ott.global-telecom.eu:25461/images/96340d1cd11a3de1d40ea6b682cba956.png" group-title="FOR ADULTS",DUSK HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1543
+#EXTINF:-1 tvg-id="" tvg-name="XY PLUS HD" tvg-logo="http://ott.global-telecom.eu:25461/images/36d7ca21656fc4393f15c11e3b875b30.png" group-title="FOR ADULTS",XY PLUS HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1389
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD HD" tvg-logo="http://ott.global-telecom.eu:25461/images/a1f1ceda1ac58873193de43f7f5b2447.png" group-title="FOR ADULTS",PENTHOUSE GOLD HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3778
+#EXTINF:-1 tvg-id="20312" tvg-name="BRAZZERS TV EUROPE HD" tvg-logo="http://ott.global-telecom.eu:25461/images/3bb21e8bb1de12ca203bf52ed96a2f3e.png" group-title="FOR ADULTS",BRAZZERS TV EUROPE HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3777
+#EXTINF:-1 tvg-id="" tvg-name="EROX HD" tvg-logo="http://ott.global-telecom.eu:25461/images/2f99fae6329179ccdda9c4911d2541a1.png" group-title="FOR ADULTS",EROX HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4035
+#EXTINF:-1 tvg-id="" tvg-name="EROXXX HD" tvg-logo="http://ott.global-telecom.eu:25461/images/3b9ba050126b06630796d3a07d30bbed.png" group-title="FOR ADULTS",EROXXX HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4323
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/8e3df1b5b01abcfa2b9e56fb5db8b417.JPG" group-title="FOR ADULTS",PLAYBOY TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4661
+#EXTINF:-1 tvg-id="" tvg-name="PASSIE XXX" tvg-logo="http://ott.global-telecom.eu:25461/images/5fab76df24718baca3b2eff3c889ce9f.png" group-title="FOR ADULTS",PASSIE XXX
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4655
+#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX" tvg-logo="http://ott.global-telecom.eu:25461/images/264b7b2a5be170d3c9ea951bb09b4c95.png" group-title="FOR ADULTS",PASSION XXX
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/4654
+#EXTINF:-1 tvg-id="5471" tvg-name="FRENCHLOVER TV" tvg-logo="http://ott.global-telecom.eu:25461/images/0c8b7386bfee09fdf445aaa21e6dd21c.png" group-title="FOR ADULTS",FRENCHLOVER TV
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/87
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL HD" tvg-logo="http://ott.global-telecom.eu:25461/images/de183215d997b90f045b693ccdf03591.png" group-title="FOR ADULTS",DORCEL HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1728
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL XXX HD" tvg-logo="http://ott.global-telecom.eu:25461/images/aa448caf3dc3d1969ea070aa69eaaebb.png" group-title="FOR ADULTS",DORCEL XXX HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1739
+#EXTINF:-1 tvg-id="" tvg-name="MEIDEN VAN HOLLAND HD" tvg-logo="http://ott.global-telecom.eu:25461/images/ad9ffc1bace0dd85686fc5e49cc36089.png" group-title="FOR ADULTS",MEIDEN VAN HOLLAND HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/1774
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER HD" tvg-logo="http://ott.global-telecom.eu:25461/images/d4910ef4e7acede93658b6cae8a00970.png" group-title="FOR ADULTS",HUSTLER HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3781
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE REALITY TV HD" tvg-logo="http://ott.global-telecom.eu:25461/images/61b97863ea7df0711024d2fc844fd30d.png" group-title="FOR ADULTS",PENTHOUSE REALITY TV HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3782
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT HD" tvg-logo="http://ott.global-telecom.eu:25461/images/defc2a1750b5382cbaaae0df83bb848f.png" group-title="FOR ADULTS",REDLIGHT HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3783
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE HD" tvg-logo="http://ott.global-telecom.eu:25461/images/ed3738b8722481803b336374f3b17dbf.png" group-title="FOR ADULTS",PRIVATE HD
+http://zemlja.xyz:25461/SevalaAlic/ph2XBUZGSz33bKp/3807
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="http://ott.global-telecom.eu:25461/images/981a0135c1e8372c1d017a9fd16fff83.jpg" group-title="STRANI FILMOVI NOVO/ FOREIGN MOVIES NEW",Damaged (2024)
+http://zemlja.xyz:25461/movie/SevalaAlic/ph2XBUZGSz33bKp/27576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sidonie in Japan (2024)" tvg-logo="http://ott.global-telecom.eu:25461/images/39492f58d7a2bc75dad458aa248526d7.jpg" group-title="STRANI FILMOVI NOVO/ FOREIGN MOVIES NEW",Sidonie in Japan (2024)
+http://zemlja.xyz:25461/movie/SevalaAlic/ph2XBUZGSz33bKp/31195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samurai Fury (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apthwI5WmRT3cpiMg9sppEJ0PsN.jpg" group-title="STRANI FILMOVI NOVO/ FOREIGN MOVIES NEW",Samurai Fury (2025)
+http://zemlja.xyz:25461/movie/SevalaAlic/ph2XBUZGSz33bKp/38137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E01" tvg-logo="http://ott.global-telecom.eu:25461/images/1e3369400e763b1a13c33ae05daa8396.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E01
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E02" tvg-logo="http://ott.global-telecom.eu:25461/images/f2624b60b65ac2976e46312bcdf42d38.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E02
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E03" tvg-logo="http://ott.global-telecom.eu:25461/images/1e5cecd72d81dac90dca68125e926bd8.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E03
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E04" tvg-logo="http://ott.global-telecom.eu:25461/images/f16c7549819389ee34d29629ea969bde.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E04
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E05" tvg-logo="http://ott.global-telecom.eu:25461/images/116f95e4d3bfbac9b8d4ae64ab4a398d.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E05
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E06" tvg-logo="http://ott.global-telecom.eu:25461/images/a0b6d0edbffcf2753f664e3e35bdb093.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E06
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E07" tvg-logo="http://ott.global-telecom.eu:25461/images/3aa0cdde050ee625507ebbf220ff0947.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E07
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Acolyte S01 E08" tvg-logo="http://ott.global-telecom.eu:25461/images/26979f294e4d43921ebf2a247e623a34.jpg" group-title="STRANE SERIJE / FOREIGN SERIES",The Acolyte S01 E08
+http://zemlja.xyz:25461/series/SevalaAlic/ph2XBUZGSz33bKp/28926.mp4
