@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 xui-id="163" tvg-id="HRT 1 HD" tvg-name="PRVA CG" tvg-logo="http://ott.dobratv.net:25461/images/0be06175f7a44c7b281da9aeada8a2a4.jpg" group-title="CRNOGORSKI",PRVA CG
 http://ott.dobratv.net:25461/play/WueWRNeIdRZtnL-i0S9f3NtNdJ7iiU84Q9mjLwvewko/m3u8
 #EXTINF:-1 xui-id="3" tvg-id="Dobra HD" tvg-name="DOBRA HD" tvg-logo="http://ott.dobratv.net:25461/images/bgb3ud4_-1I2iZ_8VAyxAFQcY6zbFdLS-hTYyX4jOlsi1jz3MTLXht8I46HAacWeebO3rkm-VgvCbbu-un6X94Ivp0IX5w8joopAkg4FS5cBOtcQ1nLt-XABT7Gokut5.png" group-title="DOBRA TV",DOBRA HD
